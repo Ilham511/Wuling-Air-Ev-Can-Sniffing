@@ -31,3 +31,7 @@ python python/plot_baterai_suhu.py
 python python/plot_can_signals.py
 📈 Hasil Utama PenelitianBerhasil merekam 115 ID CAN unik selama ~49 menit pengujian jalan dalam berbagai kondisi operasional.  Berhasil mendekode 3 parameter utama kendaraan tanpa dokumen pabrikan:  Posisi Pedal Akselerator (APP) pada ID CAN 0x17D (Byte 4 & 6)  RPM Motor pada ID CAN 0x16E (Byte 5 & 7)  Arus Baterai pada ID CAN 0x16C (Byte 5 & 6)[cite: 1]📄 Lisensi & KontributorProyek ini dikembangkan untuk keperluan akademik dan penelitian mandiri dalam bidang kendaraan listrik (Electric Vehicle)[cite: 1]. Silakan gunakan atau modifikasi dengan tetap mencantumkan sumber referensi yang sesuai.
 Setelah ditempelkan (*paste*) semuanya ke kotak editor di GitHub, gulir layar ke bawah lalu klik tombol hijau **Commit changes...** untuk menyimpan.
+
+
+
+images/foto wirring alat sniffing.jpg

@@ -33,5 +33,18 @@ python python/plot_can_signals.py
 Setelah ditempelkan (*paste*) semuanya ke kotak editor di GitHub, gulir layar ke bawah lalu klik tombol hijau **Commit changes...** untuk menyimpan.
 
 
+---
 
-images/foto wirring alat sniffing.jpg
+## 📷 Dokumentasi Penelitian & Pengujian
+
+### 1. Perangkat Keras (Hardware Sniffer)
+! [images/Image alat sniffing wuling air ev.jpeg,]
+
+### 2. Pemasangan pada Port OBD-II Wuling Air EV
+![images/Process Sniffing Test Running.jpeg]
+
+### 3. Tampilan Antarmuka Python Saat Uji Jalan (Test Running)
+![images/Display Dashboard Laptop waktu Test Jalan.jpeg]
+
+### 4. Tamilan saat test jalan
+![images/image Sniffing Wuling.jpeg]
